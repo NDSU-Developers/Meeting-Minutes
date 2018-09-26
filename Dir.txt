@@ -1,0 +1,11 @@
+ Volume in drive C is SYSTEM
+ Volume Serial Number is 18FE-FFEB
+
+ Directory of C:\Dev\MindSphere
+
+09/25/2018  08:30 PM    <DIR>          Meeting-Minutes
+09/25/2018  08:31 PM    <DIR>          ..
+09/25/2018  08:31 PM    <DIR>          .
+09/25/2018  08:31 PM                 0 Dir.txt
+               1 File(s)              0 bytes
+               3 Dir(s)  163,817,885,696 bytes free
